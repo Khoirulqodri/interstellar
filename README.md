@@ -14,4 +14,3 @@ Saran untuk Peningkatan:
 Kepuasan Belajar:
 
 "Secara keseluruhan, saya merasa pembelajaran ini sangat bermanfaat dan membantu saya dalam mengembangkan keterampilan teknis yang dibutuhkan untuk proyek-proyek yang melibatkan kolaborasi dan manajemen versi."
-g
